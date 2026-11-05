@@ -73,3 +73,11 @@ Null safety diterapkan untuk mencegah kesalahan akibat penggunaan nilai kosong a
 ## Pernyataan Penggunaan AI
 
 AI digunakan sebagai alat bantu dalam memahami konsep Dart, menyusun kode awal, dan memperbaiki kesalahan selama proses pengembangan. Pengujian program dan pemahaman terhadap kode dilakukan kembali oleh penulis.
+
+## Status Pengembangan
+
+- [x] Pembuatan katalog produk.
+- [x] Pemrosesan pesanan.
+- [x] Perhitungan subtotal dan diskon.
+- [x] Penanganan input tidak valid.
+- [x] Pengujian aplikasi.
